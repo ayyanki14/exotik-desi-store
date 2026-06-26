@@ -10,4 +10,4 @@ Phase 1: Online storefront with cart, WhatsApp ordering, filters.
 
 ## URLs
 - Production: exotikdesi.vercel.app
-- Custom domain: exotikdesi.com (add in Vercel settings)
+- Custom domain: exotikdesi.com (add in Vercel settings) 
